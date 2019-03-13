@@ -1,0 +1,39 @@
+﻿  Game.cpp
+  d:\windows kits\10\include\10.0.17134.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hsa61\desktop\3\graphics\graphics\game.cpp(391): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\game.cpp(392): warning C4244: "Initialisierung": Konvertierung von "LONG" in "float", möglicher Datenverlust
+  Target.cpp
+  d:\windows kits\10\include\10.0.17134.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(17): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(18): warning C4244: "=": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(34): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(35): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(42): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(43): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(53): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(54): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(61): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(62): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(70): warning C4244: "=": Konvertierung von "int" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(71): warning C4244: "=": Konvertierung von "int" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(73): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(79): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(80): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(81): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(83): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(84): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(85): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(89): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(90): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(91): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(93): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(94): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(95): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(99): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(100): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(101): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(103): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(104): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(105): warning C4244: "=": Konvertierung von "float" in "WORD", möglicher Datenverlust
+c:\users\hsa61\desktop\3\graphics\graphics\target.cpp(24): warning C4101: "posY": Unreferenzierte lokale Variable
+  Graphics.vcxproj -> C:\Users\hsa61\Desktop\3\Graphics\Graphics\bin\Graphicsd.exe
